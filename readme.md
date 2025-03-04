@@ -22,11 +22,7 @@ The script will automatically install the required Python packages:
 
 ## Installation
 
-1. Download the script:
-
-```bash
-curl -O https://raw.githubusercontent.com/yourusername/qa-to-xlsx/main/qa_to_xlsx.sh
-```
+1. Download the script
 
 2. Make it executable:
 
